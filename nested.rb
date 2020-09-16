@@ -110,7 +110,6 @@ def changing_alan
     }
 end
 
-puts programmer_hash
 
 def adding_to_dennis
   # add "Assembly" to Dennis Ritchie's languages array
