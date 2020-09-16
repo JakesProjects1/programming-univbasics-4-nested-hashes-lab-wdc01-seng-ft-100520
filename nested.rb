@@ -81,14 +81,8 @@ def adding_matz
       :dennis_ritchie => {
         :known_for => "Unix",
         :languages => ["C"]
- 		   
-      }
+       }
     }
-    
-programmer_hash
-  ]
-
-programmer_hash 
 end
 
 def changing_alan
