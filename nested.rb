@@ -102,6 +102,10 @@ def changing_alan
       :dennis_ritchie => {
         :known_for => "Unix",
         :languages => ["C"]
+      
+      :
+        
+
       }
     }
 
