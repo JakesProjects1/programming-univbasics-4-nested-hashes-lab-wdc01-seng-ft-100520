@@ -108,7 +108,6 @@ def changing_alan
         :languages => ["LISP", "C"]
       }
     }
-  programmer_hash
 end
 
 
